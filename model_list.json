@@ -1,5 +1,4 @@
- {
-    "models": [
-      ["runtime/ren.model3.json"]
-    ]
-  }
+{
+  "messages": ["Hello!"],
+  "models": ["ren"]
+}
